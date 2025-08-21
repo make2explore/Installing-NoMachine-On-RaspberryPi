@@ -25,7 +25,7 @@ Benefits of NoMachine for Raspberry Pi compared to other remote desktop software
   
   
 **Software**
-- NoMachine for Raspberry Pi - Server [Server](https://download.nomachine.com/download/?id=29&platform=linux&distro=raspberry)  
+- NoMachine for Raspberry Pi [Server](https://download.nomachine.com/download/?id=29&platform=linux&distro=raspberry)  
 - NoMachine Client for Host PC/Laptop Running - Linux/Windows/Mac [Client](https://www.nomachine.com/)  
 - Raspberry Pi Imager [Download](https://www.raspberrypi.com/software/)  
 - Raspberry Pi OS [Download](https://www.raspberrypi.com/software/operating-systems/)  
