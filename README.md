@@ -40,7 +40,7 @@ Benefits of NoMachine for Raspberry Pi compared to other remote desktop software
 
 📕 **YouTube Video Links**  
 
-▶️  Installing NoMachine on Raspberry Pi 🔗  https://youtu.be/  
+▶️  Installing NoMachine on Raspberry Pi 🔗  https://youtu.be/EumVIAsFkQo   
 
 
 -------------------------------------------------------------------------------------------------------
