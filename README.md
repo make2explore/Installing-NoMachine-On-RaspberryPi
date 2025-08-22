@@ -1,5 +1,5 @@
 # Installing-NoMachine-On-RaspberryPi
-Tutorial - How to Install NoMachine RDS on Raspberry Pi
+Tutorial - How to Install and Setup NoMachine RDS on Raspberry Pi
 
 <img src="/Images/NoMachine-Rpi.png" height="200">  
   
